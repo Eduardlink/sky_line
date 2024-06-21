@@ -26,8 +26,8 @@ Este proyecto es una aplicación web desarrollada en WordPress utilizando el con
 #### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Eduardlink/sky_line.git
+cd sky_line
 ```
 
 #### Paso 2: Configurar la Base de Datos
