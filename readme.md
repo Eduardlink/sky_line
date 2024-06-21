@@ -33,22 +33,7 @@ cd tu-repositorio
 #### Paso 2: Configurar la Base de Datos
 
 * Crear una base de datos MySQL y un usuario con los permisos necesarios.
-* Importar el archivo `database.sql` incluido en el repositorio a tu base de datos MySQL.
-
-#### Paso 3: Configurar WordPress
-
-* Copia el contenido del repositorio en el directorio de tu instalación de WordPress.
-* Configura el archivo `wp-config.php` con los datos de conexión a tu base de datos.
-
-#### Paso 4: Activar el Tema Divi
-
-* Inicia sesión en el panel de administración de WordPress.
-* Ve a la sección de "Apariencia" y activa el tema Divi.
-
-#### Paso 5: Importar Configuración de Divi
-
-* Navega a "Divi" > "Library".
-* Importa los layouts y configuraciones de Divi incluidas en el archivo `divi-layouts.json`.
+* Importar el archivo `skyline.sql` incluido en el repositorio a tu base de datos MySQL.
 
 ### Uso
 
